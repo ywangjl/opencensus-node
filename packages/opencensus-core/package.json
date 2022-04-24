@@ -53,7 +53,7 @@
   },
   "devDependencies": {
     "@types/continuation-local-storage": "3.2.1",
-    "@types/mocha": "8.2.3",
+    "@types/mocha": "9.1.1",
     "@types/node": "10.17.60",
     "@types/once": "1.4.0",
     "@types/semver": "7.3.7",
@@ -62,7 +62,7 @@
     "codecov": "3.8.3",
     "gts": "1.1.2",
     "intercept-stdout": "0.1.2",
-    "mocha": "7.2.0",
+    "mocha": "9.2.2",
     "nyc": "15.1.0",
     "ts-mocha": "8.0.0",
     "ts-node": "8.10.2",
